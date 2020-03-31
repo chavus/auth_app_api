@@ -1,4 +1,4 @@
 Flask
 Flask-SQLAlchemy
-Flask-Migrate
-flask-restful
+Flask-restful
+uwsgi
