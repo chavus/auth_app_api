@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1083ccc2-4b77-4c57-b210-61b3454dbec3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/auth_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/auth_api.py" afterDir="false" />
-    </list>
+    <list default="true" id="1083ccc2-4b77-4c57-b210-61b3454dbec3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/auth_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -174,6 +172,14 @@
       <option name="presentableId" value="Default" />
       <updated>1584854920517</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Adding 3rd comment&quot;">
+      <created>1585628975378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585628975379</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -217,6 +223,10 @@
         <option value="1" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Adding 3rd comment&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Adding 3rd comment&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../FlaskApp_auth_front/requirements.txt">
@@ -333,8 +343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/auth_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
