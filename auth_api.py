@@ -1,7 +1,4 @@
-#Adding a comment
-#Adding nother comment from origin
-#Adding commnt 3
-#Adding comment 4 again
+#New branch new_f
 from auth_api import app
 
 if __name__ == "__main__":
